@@ -7,8 +7,12 @@ select count(distinct node_id) as 'Distinct Node' from customer_nodes;
 
 /* How many nodes are there in each region */
 
-select count(cn.node_id) as 'Distinct Node', r.region_id from customer_nodes cn
-join regions r on cn.region_id = r.region_id group by region_id order by region_id;
+SELECT COUNT(cn.node_id) AS 'Distinct Node', r.region_id
+FROM customer_nodes cn
+JOIN regions r ON cn.region_id = r.region_id
+GROUP BY r.region_id  
+ORDER BY r.region_id; 
+
 
 /* How many customers are divided among the regions */
 
