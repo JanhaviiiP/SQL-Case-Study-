@@ -13,23 +13,31 @@ _In our DataBank, we've delved into the operational aspects and customer transac
 Network Analysis
 
 Distinct Nodes
-_Our network consists of [number] distinct nodes, strategically distributed across different regions:
+_Our network consists of [number] distinct nodes, strategically distributed across different regions:_
 
 Region 1: 770 nodes
+
 Region 2: 735 nodes
+
 Region 3: 714 nodes
+
 Region 4: 665 nodes
-Region 4: 616 nodes_
+
+Region 4: 616 nodes
 
 
 Customer Distribution
 
 _Our customers are spread out among these regions, with:_
 
-Region 1  hosting *110* customers,
-Region 2  hosting *105* customers,
-Region 3  hosting *102* customers,
-Region 4  hosting *95* customers,
+Region 1  hosting *110* customers.
+
+Region 2  hosting *105* customers.
+
+Region 3  hosting *102* customers.
+
+Region 4  hosting *95* customers.
+
 Region 5  hosting *88* customers.
 
 
@@ -54,18 +62,18 @@ Region 5 : Total transactions amounted to $3,401,552.
 Transaction Types Breakdown
 
 *Deposits:*
-Unique count: 2671 deposits
 
+Unique count: 2671 deposits.   
 Total amount: $1,359,168
 
 *Purchases:*
-Unique count: 1617 purchases
 
+Unique count: 1617 purchases.
 Total amount: $806,537
 
 *Withdrawals:*
-Unique count: 1580 withdrawals
 
+Unique count: 1580 withdrawals.
 Total amount: $793,003
 
 
