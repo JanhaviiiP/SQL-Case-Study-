@@ -37,7 +37,7 @@ Customer Behavior Analysis
 
 We track monthly customer activity closely. Each month, we see a significant number of customers making multiple deposits and engaging in either purchases or withdrawals. This pattern indicates active engagement and utilization of our services.
 
-*Conclusion*
+***Conclusion***
 
 
 Our DataBank  showcases how we manage our network resources, analyze customer transactions, and ensure operational efficiency. These insights are vital for understanding our customer base and optimizing our services to meet their needs effectively.
