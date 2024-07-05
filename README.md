@@ -1,4 +1,4 @@
-Introduction
+**Introduction**
 In our DataBank portfolio, we've delved into the operational aspects and customer transactions within our network. This analysis provides a clear picture of how our customers interact with our services across different regions.
 
 Key Insights
