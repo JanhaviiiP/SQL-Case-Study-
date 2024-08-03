@@ -1,4 +1,6 @@
 **Regional Network Transaction Analysis**
+
+
 Objective: Analyze transaction data across regional networks to identify trends and optimize operational efficiency.
 
 
